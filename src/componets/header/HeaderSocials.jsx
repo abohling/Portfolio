@@ -6,8 +6,8 @@ function HeaderSocials() {
     <div className='header__socials'>
         <h5>SOCIAL</h5>
         <h5>MEDIA</h5>
-        <a href='https://www.linkedin.com/in/adambohling/' target="_blank"><BsLinkedin/></a>
-        <a href='https://github.com/abohling' target="_blank"><FaGithub/></a>
+        <a href='https://www.linkedin.com/in/adambohling/' rel="noopener"><BsLinkedin/></a>
+        <a href='https://github.com/abohling' rel="noopener"><FaGithub/></a>
     </div>
   )
 }
