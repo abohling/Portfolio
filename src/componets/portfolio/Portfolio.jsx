@@ -3,6 +3,9 @@ import './portfolio.css'
 import StockImg from '../../assests/stock.jpeg'
 import StripeImg from '../../assests/stripe-project.jpeg'
 import TwitterImg from '../../assests/twitter-clone.jpeg'
+import Jobly from '../../assests/jobs.jpeg'
+import ExpressMessage from '../../assests/expressmessage.jpeg'
+import Redux from '../../assests/comingsoon.jpeg'
 
 
 const Portfolio = () => {
@@ -30,25 +33,25 @@ const Portfolio = () => {
     },
     {
       id:4,
-      image: TwitterImg,
-      title: 'Twitter clone',
-      github: "https://github.com/abohling/twitter-clone",
+      image: Jobly,
+      title: 'Jobly',
+      github: "https://github.com/abohling/react_jobly",
       demo: "www.google.com"
     },
     {
       id:5,
-      image: TwitterImg,
-      title: 'Twitter clone',
-      github: "https://github.com/abohling/twitter-clone",
+      image: ExpressMessage,
+      title: 'Express Message',
+      github: "https://github.com/abohling/express-message",
       demo: "www.google.com"
     },
     {
       id:6,
-      image: TwitterImg,
-      title: 'Twitter clone',
-      github: "https://github.com/abohling/twitter-clone",
+      image: Redux,
+      title: 'Redux Blog Project',
+      github: "https://github.com/abohling",
       demo: "www.google.com"
-    },
+    }
   ]
 
   return (
