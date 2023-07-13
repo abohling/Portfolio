@@ -15,19 +15,15 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p> Put something here </p>
+              <p>Wordpress Website Design</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p> Put something here </p>
+              <p>Mobile App/Website Design</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p> Put something here </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p> Put something here </p>
+              <p>User Experience</p>
             </li>
           </ul>
         </article>
@@ -39,19 +35,19 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p> Put something here </p>
+              <p>Dynamic Web Design And Development</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p> Put something here </p>
+              <p>Content Creation And Distribution</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p> Put something here </p>
+              <p>Search Engine Optimization</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p> Put something here </p>
+              <p>Unit, GUI, and Intergation Testing</p>
             </li>
           </ul>
         </article>
@@ -63,19 +59,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p> Put something here </p>
+              <p>User Authentication</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p> Put something here </p>
+              <p>Data Management</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p> Put something here </p>
+              <p>Building and Managing Databases</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p> Put something here </p>
+              <p>CRUD Teseting</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p> SDK's and RESTful API Integration</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p> RESTful API Integration</p>
             </li>
           </ul>
         </article>

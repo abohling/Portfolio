@@ -38,7 +38,7 @@ const About = () => {
 
             </div>
             <p>
-              Something has to go here aobut me. Not sure what but his is a place holder text til I can figure it out.
+              As someone who loves to learn, problem-solve and try new challenges I decide during covid it was time for a career change and to start working towards being a software developer. Fast forward two years later, I've completed a full-stack software boot camp through Springboard. There I learned the fundamentals of programming design and architecture. Since completing the boot camp in May of 2023, I've started freelancing website design and taught myself PHP-based WordPress website design, redux, and angular.
             </p>
 
             <a href='#contact' className='btn btn-primary'>Let's Talk</a>
