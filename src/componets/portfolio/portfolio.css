@@ -23,13 +23,19 @@
 }
 
 .portfolio__item h3 {
-    margin: 1.2rem 0 3rem;
+    text-align: center;
+    margin: 1.2rem;
+}
+.portfolio__item h5 {
+    text-align: center;
+    margin: 1.2rem;
 }
 
 .portfolio__item-cta {
     display: flex;
     gap: 1rem;
-    margin-bottom: 1rem;
+    justify-content: center;
+    margin-bottom: 1.8rem;
 }
 
 /* --------------------MEDIA QUERIES (MED DEVICES) -------------*/
