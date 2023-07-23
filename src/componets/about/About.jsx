@@ -38,7 +38,7 @@ const About = () => {
 
             </div>
             <p>
-              As someone who loves to learn, problem-solve and try new challenges I decide during covid it was time for a career change and to start working towards being a software developer. Fast forward two years later, I've completed a full-stack software boot camp through Springboard. There I learned the fundamentals of programming design and architecture. Since completing the boot camp in May of 2023, I've started freelancing website design and taught myself PHP-based WordPress website design, redux, and angular.
+              As someone who loves to learn, problem-solve, and try new challenges, I decided during covid it was time for a career change and to start working towards being a software developer. Fast forward two years later, I've completed a full-stack software engineering bootcamp through Springboard. There I learned the fundamentals of programming, design, and architecture. Since completing the boot camp in May of 2023, I've started freelancing website designs and taught myself PHP-based WordPress website design, redux, and angular. I'm currently looking for full time employment as a React Developer.
             </p>
 
             <a href='#contact' className='btn btn-primary'>Let's Talk</a>
